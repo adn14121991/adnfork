@@ -1,0 +1,10 @@
+C:\Users\Alumno\Desktop\SISTEMAVIDEOS\Clase_Videos\bin\Debug\Clase_Videos.dll
+C:\Users\Alumno\Desktop\SISTEMAVIDEOS\Clase_Videos\bin\Debug\Clase_Videos.pdb
+C:\Users\Alumno\Desktop\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.dll
+C:\Users\Alumno\Desktop\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.pdb
+C:\Users\Thalía\Desktop\Des Apl Dis\SEMANA04 - VIDEOS - SEMIFINAL\Clase 04\SISTEMAVIDEOS\Clase_Videos\bin\Debug\Clase_Videos.dll
+C:\Users\Thalía\Desktop\Des Apl Dis\SEMANA04 - VIDEOS - SEMIFINAL\Clase 04\SISTEMAVIDEOS\Clase_Videos\bin\Debug\Clase_Videos.pdb
+C:\Users\Thalía\Desktop\Des Apl Dis\SEMANA04 - VIDEOS - SEMIFINAL\Clase 04\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.csprojResolveAssemblyReference.cache
+C:\Users\Thalía\Desktop\Des Apl Dis\SEMANA04 - VIDEOS - SEMIFINAL\Clase 04\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.dll
+C:\Users\Thalía\Desktop\Des Apl Dis\SEMANA04 - VIDEOS - SEMIFINAL\Clase 04\SISTEMAVIDEOS\Clase_Videos\obj\Debug\Clase_Videos.pdb
